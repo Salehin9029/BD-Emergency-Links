@@ -1,0 +1,33 @@
+{
+    "version":"1.2",
+    "name": "BANGALDESH EMERGENCY LINKS",
+    "description": "Know Your Location And Get Helps from Police, Fire Brigades, Hospitals and Ambulance Service",
+    "launch_path": "/index.html",
+  
+    "fullscreen": "false",
+    "icons": {
+        "60": "/images/chobi60.png",
+        "90": "/images/chobi90.png",
+        "120": "/images/chobi120.png",
+        "128": "/images/chobi128.png"
+    },
+      "developer": {
+        "name": "BYTES LTD",
+        "url": "http://www.facebook.com"
+    },
+
+    "permissions":{
+        "geolocation":{
+        "description":"get me"
+        }
+
+
+    },
+    
+    "chrome": {
+    "navigation": true
+  },
+    
+    "default_locale": "en"
+
+}

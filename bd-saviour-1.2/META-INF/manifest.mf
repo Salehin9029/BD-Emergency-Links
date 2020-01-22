@@ -1,0 +1,201 @@
+Manifest-Version: 1.0
+
+Name: about.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: S8+rCZlwTTOHmcGqnHnsMg==
+SHA1-Digest: yS+XAQmA3Pf4NFxLvIwBc0L8g9M=
+
+Name: aha.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 8Ncf+79m//j8ZPSxT2Yw9w==
+SHA1-Digest: 98y9xiR46fKyIdhx66evlNQ9LKI=
+
+Name: ambulance.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OEW5Z0JYeXIruzG8ZF7uTg==
+SHA1-Digest: H/ZIa5tgYW8C0mZwH+75Q2S7/Ag=
+
+Name: app.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9sIQiiF42mOdyaDeJPk+fQ==
+SHA1-Digest: lYqmC9cKPAHyY2+EX/eGJI7uLvA=
+
+Name: barisal.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UlNVJvlvvDAWTGr5VgtC0Q==
+SHA1-Digest: yyELw4DfZsV98TweHbQ4gjGTHMU=
+
+Name: barisalfire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 60/KlTMTmwjWlWiFruo+7A==
+SHA1-Digest: YwRt3g48YNNl6MXzpEExbiv3V3A=
+
+Name: barisalpolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: gtqc9yXnbBpe6ypto8g9Jg==
+SHA1-Digest: dgIlwSCHzLPz7HZ4VUHiG1qwwEA=
+
+Name: chittagong.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: DHE9X/kqhOkrgISCCv4yew==
+SHA1-Digest: CpX7EDDjMMwpMmeJxxAUj8CVC8U=
+
+Name: chittagongfire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rZ3gEINnNhChGcqehKwBvg==
+SHA1-Digest: ONOK69uFzr4V1Xv2ZXj6/+A02aI=
+
+Name: chittagongpolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kvOryS0vxyD60dfhCXmNLw==
+SHA1-Digest: xhtCyhsZAlQR359nrmhhvHKOGJU=
+
+Name: dhaka.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: HxBZd9i7nf7Qch4kMo8X6w==
+SHA1-Digest: cDGm8M+qMFkUVKK7v5cGt71+4J8=
+
+Name: dhakafire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wZXP2VUhtkNSPL/4NnY1Gg==
+SHA1-Digest: qkSGcEZ3bxpTcowKut3vzsSIyyQ=
+
+Name: dhakapolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: rSnAVpsx4oetF2snr7dfGQ==
+SHA1-Digest: hlHNO5uz2W4CRS2uBXt6/d2dzTQ=
+
+Name: hospital.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 1417MDPtZsi7oWo9BDSlLA==
+SHA1-Digest: 7j4eWE/d2iNK0nMZdH0lrDXytb8=
+
+Name: index.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: kQE6YCkkZrP4WzihTj7T8w==
+SHA1-Digest: KrwOBL1GjHhkKmPEHuNPPqZOjIM=
+
+Name: jquery-1.7.1.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3bhMFYcoey3wiWYIHvBjvw==
+SHA1-Digest: nrmsWV6bVUTi3Hn/980tC0te9x8=
+
+Name: jquery.mobile-1.3.1.min.css
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: OQtjg8/+9jdk0lDgDoMhng==
+SHA1-Digest: O6kYKQvfw64Ir38uhxKhir8ik44=
+
+Name: jquery.mobile-1.3.1.min.js
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cL7/fUhQJ5w03mSgptiPnQ==
+SHA1-Digest: B4Nv6q3OnjE+N6FCzUap0T0t4/g=
+
+Name: khulna.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: tForPHK5DZld9SDWxFhp4g==
+SHA1-Digest: gH9BMQ5bobYn/1zI1LNG9Vy99yI=
+
+Name: khulnafire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 9kfDqBpUMY8PsR6WMqkpbA==
+SHA1-Digest: 8/PUkLg7RH67GhDVMfNc8JtRJrw=
+
+Name: khulnapolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: MA242LdvMvkPXxQ8alahNg==
+SHA1-Digest: HRHsX9tD1YkksCxSHz4Jj+nuQQA=
+
+Name: last.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: qREUbXZoa3j6HlXrKyYmuQ==
+SHA1-Digest: W9ouRJ7xmvdUGjhAgh8m0WHyJhI=
+
+Name: main.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: cSczqnh9ioZFLfQQ5a0acQ==
+SHA1-Digest: ZMqMjv8LmecvRt6E3LqfVd3L5uQ=
+
+Name: manifest.webapp
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: ZO1NVr6I+I2MPUMg/3NFAQ==
+SHA1-Digest: hOX55vogG8lpZ3joG0zFBKp7ET0=
+
+Name: new.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: QgE6PWnSnmG0GkrnJ4q8dg==
+SHA1-Digest: xNT8Nwz/HBcZTC9ExkGni+LHWvc=
+
+Name: rajshahi.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 4VN3o891V9/qOGZRcDuy2A==
+SHA1-Digest: lLkVuKZVHZeug7rGoPCD7dzcXxQ=
+
+Name: rajshahifire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: GGyZjXGD42uEukgWsm8UOA==
+SHA1-Digest: 3i8Wk+0xavax0vSNeKvEiR2wzY8=
+
+Name: rajshahipolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: 3CagCMOm3RmBoOMc0j7slA==
+SHA1-Digest: Fn4asRoAW5+eLZXJK9tgtMeXJUs=
+
+Name: rangpur.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: FmEfVJF6xhi/ASPKLPUiJg==
+SHA1-Digest: 906+u73DBjNk9zaX55Hwk/YCdyw=
+
+Name: rangpurfire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: JIVU7YCOTFGeCm4sv87XdQ==
+SHA1-Digest: MybOqxIHWjbe/Z16vn8vAYdtEgo=
+
+Name: rangpurpolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: Wdwcr4oQKYOCn+kM9+A/7A==
+SHA1-Digest: Fr3/ZR3NYEjDL2x9ZtGvqnA9UDw=
+
+Name: sylhet.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: UgCQLAFb6hlipjxpDwwekw==
+SHA1-Digest: Yk/Nz6KGiBKAowJDT0Uzn+9SMDE=
+
+Name: sylhetfire.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: CSMtjuID5EtFxT/cpS/Wbg==
+SHA1-Digest: kJLHTXRplT9L79rnwRAIQz98eYU=
+
+Name: sylhetpolice.html
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: IJ/IZgvyJoZ8g98cGX7Hiw==
+SHA1-Digest: 0lVYq+CVuK3T8xAZb1EC37IlayA=
+
+Name: untitled
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: +dujXFnuw8j9CU0+TeFDNw==
+SHA1-Digest: w1pY2a8/Ipiqjc6uXW9QqPbIC2A=
+
+Name: images/chobi120.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: c3ixREQPfJJZ3B4ij0Jcig==
+SHA1-Digest: v+wspdlSddYve/CR2AlWWPs/kiw=
+
+Name: images/chobi128.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: T9cUXGAYk7fhY+SZwQjNoQ==
+SHA1-Digest: B55VtPffW762e/kLSgO1wr4EG/s=
+
+Name: images/chobi60.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: NZLENdHE3peK8qLNDmebBA==
+SHA1-Digest: WSsC4UCY+1nhMBXTRyNd1VoOKU4=
+
+Name: images/chobi90.png
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: wkSffI0dsThsM5kGGuXMAw==
+SHA1-Digest: YvPIRON6qEDbKcaU7dlPFwl25R8=
+
+Name: META-INF/ids.json
+Digest-Algorithms: MD5 SHA1
+MD5-Digest: l9KyBnPZrVzmtovcQi12Jw==
+SHA1-Digest: gEmkxBHsKHGN1Z0RujvSZkTewhg=
